@@ -1,0 +1,101 @@
+1691081991448	geckodriver	INFO	Listening on 127.0.0.1:52973
+1691081991583	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lr/1x6n3gc93k3d0q5g615nn1kh0000gn/T/rust_mozprofileejZIX6"
+1691081992031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lr/1x6n3gc93k3d0q5g615nn1kh0000gn/T/rust_mozprofileejZIX6/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile provided more links than permitted. (3 received, limit is 2)
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52974/devtools/browser/8749a313-622d-4e2a-9a14-c771ca4fa4f1
+1691081993530	Marionette	INFO	Listening on port 52993
+Read port: 52993
+1691081993582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: https://login.microsoftonline.com/e46bc88e-1a4b-44ff-a158-1b9f7eb4561e/saml2?SAMLRequest=fZJLT8MwEIT%2FSuR7aidN0sRqKhUqRCUeFS0cuCDHXYMlxw5eh8e%2FJ01BwKXnHX%2Bzntk5itZ0fNmHF3sHrz1giD5aY5GPg5r03nInUCO3ogXkQfLt8vqKpxPGO%2B%2BCk86QaIkIPmhnz53FvgW%2FBf%2BmJdzfXdXkJYQOOaVaYRj4E%2Be1MgNsIl1LDzYUOzqwlDZAO4eBCokkWg1abcWB%2Bssw7lnbSauld%2BhUcNZoewRBVjSyLCFORNbEWaZULJK8jJOmUjNosrxIYHRLSbRe1eSJKVEJVuRimjX7PM2qQhTNrJpWUMpmts9Fsc%2FzbBAj9rC2GIQNNUlZOo1ZGbPpLplxxjgbkmDpI4kunJcwBlkTJQwCiTbfAZ1pu9f2%2BXSazVGE%2FHK328Sb2%2B2ORA%2Fgcfz%2FICCL%2BWF9Pu7j%2F7R0Git%2BqiGL00V0c%2FqHfzTr%2BM0wX682zmj5GS2Nce%2FnHkSAmgTfA6GL46v%2FJ7T4Ag%3D%3D, line 3: Error: Timeout while acquiring lock
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: https://login.microsoftonline.com/e46bc88e-1a4b-44ff-a158-1b9f7eb4561e/saml2?SAMLRequest=fZJLT8MwEIT%2FSuR7aidN0sRqKhUqRCUeFS0cuCDHXYMlxw5eh8e%2FJ01BwKXnHX%2Bzntk5itZ0fNmHF3sHrz1giD5aY5GPg5r03nInUCO3ogXkQfLt8vqKpxPGO%2B%2BCk86QaIkIPmhnz53FvgW%2FBf%2BmJdzfXdXkJYQOOaVaYRj4E%2Be1MgNsIl1LDzYUOzqwlDZAO4eBCokkWg1abcWB%2Bssw7lnbSauld%2BhUcNZoewRBVjSyLCFORNbEWaZULJK8jJOmUjNosrxIYHRLSbRe1eSJKVEJVuRimjX7PM2qQhTNrJpWUMpmts9Fsc%2FzbBAj9rC2GIQNNUlZOo1ZGbPpLplxxjgbkmDpI4kunJcwBlkTJQwCiTbfAZ1pu9f2%2BXSazVGE%2FHK328Sb2%2B2ORA%2Fgcfz%2FICCL%2BWF9Pu7j%2F7R0Git%2BqiGL00V0c%2FqHfzTr%2BM0wX682zmj5GS2Nce%2FnHkSAmgTfA6GL46v%2FJ7T4Ag%3D%3D, line 3: Error: Timeout while acquiring lock
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://login.microsoftonline.com/e46bc88e-1a4b-44ff-a158-1b9f7eb4561e/login, line 3: Error: Timeout while acquiring lock
+JavaScript error: https://login.microsoftonline.com/e46bc88e-1a4b-44ff-a158-1b9f7eb4561e/login, line 3: Error: Timeout while acquiring lock
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1691082106876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=15409924d3c3ac6c9c7981cd9cb8da3d&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=397714aa69a5f7891115666cc3f38a8b, line 3: Error: Timeout while acquiring lock
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=15409924d3c3ac6c9c7981cd9cb8da3d&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=397714aa69a5f7891115666cc3f38a8b, line 3: Error: Timeout while acquiring lock
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=15409924d3c3ac6c9c7981cd9cb8da3d&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=397714aa69a5f7891115666cc3f38a8b, line 3: Error: Timeout while acquiring lock
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=15409924d3c3ac6c9c7981cd9cb8da3d&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=397714aa69a5f7891115666cc3f38a8b, line 3: Error: Timeout while acquiring lock
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=15409924d3c3ac6c9c7981cd9cb8da3d&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=397714aa69a5f7891115666cc3f38a8b, line 3: Error: Timeout while acquiring lock
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ifstest.oriflame.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ifstest.oriflame.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ifstest.oriflame.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1691082975228	Marionette	INFO	Stopped listening on port 52993
+1691083103545	geckodriver	INFO	Listening on 127.0.0.1:53289
+1691083103714	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lr/1x6n3gc93k3d0q5g615nn1kh0000gn/T/rust_mozprofileIE7tN5"
+1691083104180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lr/1x6n3gc93k3d0q5g615nn1kh0000gn/T/rust_mozprofileIE7tN5/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile provided more links than permitted. (3 received, limit is 2)
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53290/devtools/browser/35a48d10-7bee-479f-acb8-a915cfa3d8d9
+1691083105695	Marionette	INFO	Listening on port 53307
+Read port: 53307
+1691083105805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1691083134366	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ifstest.oriflame.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ifstest.oriflame.com/auth/realms/ifsoctest/protocol/openid-connect/auth?client_id=IFS_aurena&nonce=7b3e333f1a3edeb1974fbb125038d7e1&scope=openid%20microprofile-jwt&redirect_uri=https%3A%2F%2Fifstest.oriflame.com%2Fredirect&response_type=code&state=ea0b28278270db3f83d7e8bfb601f3ad, line 3: Error: Timeout while acquiring lock
+1691083269881	Marionette	INFO	Stopped listening on port 53307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1691083335246	geckodriver	INFO	Listening on 127.0.0.1:53410
+1691083401648	geckodriver	INFO	Listening on 127.0.0.1:53526
+1691083498282	geckodriver	INFO	Listening on 127.0.0.1:53627
+1691083568301	geckodriver	INFO	Listening on 127.0.0.1:53729
+1691083637182	geckodriver	INFO	Listening on 127.0.0.1:53792
+1691083705543	geckodriver	INFO	Listening on 127.0.0.1:53874
+1691083834033	geckodriver	INFO	Listening on 127.0.0.1:53995
+1691084041748	geckodriver	INFO	Listening on 127.0.0.1:54093
+1691084195086	geckodriver	INFO	Listening on 127.0.0.1:54172
+1691084313041	geckodriver	INFO	Listening on 127.0.0.1:54276
+1691084409297	geckodriver	INFO	Listening on 127.0.0.1:54474
